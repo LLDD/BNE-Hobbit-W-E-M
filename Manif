@@ -1,0 +1,28 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns1:	<http://datos.bne.es/resource/> .
+@prefix ns2:	<http://datos.bne.es/def/> .
+ns1:a5326138	rdf:type	ns2:C1003 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+ns1:a5326138	rdfs:label	"El h\u00F2bbit o Viatge d'anada i tornada" .
+@prefix ns4:	<http://purl.org/dc/terms/> .
+@prefix ns5:	<http://lexvo.org/id/iso639-3/> .
+ns1:a5326138	ns4:language	ns5:cat ;
+	ns2:id	"a5326138" ;
+	ns2:P3064	"Libro"@es ;
+	ns2:P3003	"Barcelona" ;
+	ns2:P3062	"sin mediaci\u00F3n" ;
+	ns2:OP3002	ns1:XX2206965 ;
+	ns2:P3028	"Viatge d'anada i tornada" ;
+	ns2:P3009	"B 23794-2012" ;
+	ns2:P3001	"La Magrana" ;
+	ns2:P3006	"2012" ;
+	ns2:P3004	"336 p." ;
+	ns2:P3007	"22 cm" ;
+	ns2:P3015	"T\u00EDtulo original: The hobbit" ;
+	ns2:P3002	"El h\u00F2bbit o Viatge d'anada i tornada" ;
+	ns2:P3008	"Tolkien ; il\u00B7lustracions de l'autor ; traducci\u00F3 de Francesc Parcerisas" ;
+	ns2:OP3006	ns1:XX890361 ;
+	ns2:P3061	"Texto (visual)" ;
+	ns2:P3017	"27\u00AA ed." ;
+	ns2:P3013	"978-84-8264-595-7" .
+Enter file contents here
