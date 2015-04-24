@@ -1,0 +1,15 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns1:	<http://datos.bne.es/resource/> .
+@prefix ns2:	<http://datos.bne.es/def/> .
+ns1:XX2206965	rdf:type	ns2:C1002 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+ns1:XX2206965	rdfs:label	"Catal\u00E1n" .
+	ns2:P2001	"Catal\u00E1n" ;
+	ns2:OP2001	ns1:Mimo0000393891 ,
+		ns1:bimo0001765493 ,
+		ns1:a5326138 ,
+		ns1:Mimo0000013471 ,
+		ns1:Mimo0000226810 ,
+		ns1:Mimo0000819730 ,
+		ns1:a4877207 ;
+	ns2:OP2002	ns1:XX2035645 .
