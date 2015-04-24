@@ -1,0 +1,99 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns1:	<http://datos.bne.es/resource/> .
+@prefix ns2:	<http://datos.bne.es/def/> .
+ns1:XX933704	rdf:type	ns2:C1005 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+ns1:XX933704	rdfs:label	"Tolkien, J. R. R." ;
+	rdfs:seeAlso	<http://es.wikipedia.org/wiki/J._R._R._Tolkien> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+ns1:XX933704	owl:sameAs	<http://isni-url.oclc.nl/isni/0000000121441970> .
+@prefix ns5:	<http://id.loc.gov/authorities/names/> .
+ns1:XX933704	owl:sameAs	ns5:n79005673 ,
+		<http://d-nb.info/gnd/118623222> ,
+		<http://www.idref.fr/027164918> ,
+		<http://libris.kb.se/resource/auth/97224> .
+@prefix ns6:	<http://www.idref.fr/027164918/> .
+ns1:XX933704	owl:sameAs	ns6:id ,
+		<http://dbpedia.org/resource/J._R._R._Tolkien> ,
+		<http://d-nb.info/gnd/1038129974> ,
+		<http://d-nb.info/gnd/15818212X> ,
+		<http://d-nb.info/gnd/1038091861> ,
+		<http://viaf.org/viaf/95218067> ,
+		<http://data.bnf.fr/11926763> ;
+	ns2:OP5003	ns1:XX3341076 ,
+		ns1:XX5318179 ,
+		ns1:XX3082902 ,
+		ns1:XX4582486 ,
+		ns1:XX2886607 ;
+	ns2:P5010	"1892" ;
+	ns2:P5002	"1892-1973" ;
+	ns2:P1003	"port. (Tolkien)" ,
+		"(Tolkien, John Ronald Reuel; escritor brit\u00E1nico de origen surafricano (Bloemfontein, 1892-Bournemouth, Hampshire, 1973))" ,
+		"(Tolkien, J. R. R. (John Ronald Reuel), 1892-1973)" ;
+	ns2:OP5001	ns1:XX2206958 ,
+		ns1:XX2575050 ,
+		ns1:XX2093774 ,
+		ns1:XX2206980 ,
+		ns1:XX2206989 ,
+		ns1:XX2206983 ,
+		ns1:XX2206992 ,
+		ns1:XX2207002 ,
+		ns1:XX3434090 ,
+		ns1:XX2207005 ,
+		ns1:XX2317964 ,
+		ns1:XX2206415 ,
+		ns1:XX3124852 ,
+		ns1:XX4901027 ,
+		ns1:XX2270092 ,
+		ns1:XX2382165 ,
+		ns1:XX2727391 ,
+		ns1:XX2206994 ,
+		ns1:XX2935130 ,
+		ns1:XX2206950 ,
+		ns1:XX4785168 ,
+		ns1:XX4642050 ,
+		ns1:XX2035645 ,
+		ns1:XX2771844 ,
+		ns1:XX2731313 ,
+		ns1:XX2206978 ,
+		ns1:XX2206998 ,
+		ns1:XX3434091 ,
+		ns1:XX3438631 ,
+		ns1:XX3049459 ,
+		ns1:XX2206961 ,
+		ns1:XX3170267 ,
+		ns1:XX5321449 ,
+		ns1:XX2488164 ,
+		ns1:XX2935121 ,
+		ns1:XX3383698 ,
+		ns1:XX2503416 ,
+		ns1:XX2207000 ,
+		ns1:XX2239241 ,
+		ns1:XX2206945 ,
+		ns1:XX3155954 ,
+		ns1:XX2206955 ;
+	ns2:P3067	"John Ronald Reuel Tolkien, CBE, a menudo citado como J. R. R. Tolkien o JRRT, fue un escritor, poeta, fil\u00F3logo y profesor universitario brit\u00E1nico, conocido principalmente por ser el autor de las novelas cl\u00E1sicas de la alta fantas\u00EDa El hobbit y El Se\u00F1or de los Anillos. De 1925 a 1945, Tolkien fue profesor de anglosaj\u00F3n, ocupando la c\u00E1tedra Rawlinson y Bosworth en la Universidad de Oxford y, de 1945 a 1959, profesor de lengua y literatura inglesa en Merton. Era amigo cercano del tambi\u00E9n escritor C. S. Lewis y ambos eran miembros de un informal grupo de debate literario conocido como los Inklings. Tolkien fue nombrado Comendador de la Orden del Imperio Brit\u00E1nico por la reina Isabel II el 28 de marzo de 1972. Despu\u00E9s de su muerte, el tercer hijo de Tolkien, Christopher, public\u00F3 una serie de obras basadas en las amplias notas y manuscritos in\u00E9ditos de su padre, entre ellas El Silmarillion y Los hijos de H\u00FArin. Estos libros, junto con El hobbit y El Se\u00F1or de los Anillos, forman un cuerpo conectado de cuentos, poemas, historias de ficci\u00F3n, idiomas inventados y ensayos literarios sobre un mundo imaginado llamado Arda, y m\u00E1s extensamente sobre uno de sus continentes, conocido como la Tierra Media. Entre 1951 y 1955, Tolkien aplic\u00F3 la palabra legendarium a la mayor parte de estos escritos. Si bien escritores como William Morris, Robert E. Howard y E. R. Eddison precedieron a Tolkien en el g\u00E9nero literario de fantas\u00EDa con obras tan famosas e influyentes como las de Conan el B\u00E1rbaro, el gran \u00E9xito de El hobbit y El Se\u00F1or de los Anillos cuando se publicaron en Estados Unidos condujo directamente al resurgimiento popular del g\u00E9nero. Esto ha causado que Tolkien sea identificado popularmente como \u00ABel padre\u00BB de la literatura moderna de fantas\u00EDa, o m\u00E1s concretamente, de la alta fantas\u00EDa. Los trabajos de Tolkien han inspirado muchas otras obras de fantas\u00EDa y han tenido un efecto duradero en todo el campo. En 2008, el peri\u00F3dico The Times le clasific\u00F3 sexto en una lista de \u00ABLos 50 escritores brit\u00E1nicos m\u00E1s grandes desde 1945\u00BB.@es"@es ;
+	ns2:P5001	"Tolkien, J. R. R." ;
+	ns2:OP5002	ns1:bimo0001485869 ,
+		ns1:bimo0001485870 ,
+		ns1:bimo0000226808 ,
+		ns1:Mimo0000351523 ,
+		ns1:bimo0000163119 ,
+		ns1:bimo0000015814 ,
+		ns1:bimo0000104467 ,
+		ns1:bimo0002314475 ;
+	ns2:OP3005	ns1:bimo0000266029 ,
+		ns1:a5076931 ,
+		ns1:a4293696 ,
+		ns1:a4451024 ,
+		ns1:Mimo0001500509 ,
+		ns1:a4293852 ,
+		ns1:a4293735 ,
+		ns1:Mimo0002211558 ;
+	ns2:P3066	"http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Tolkien_1916.jpg/200px-Tolkien_1916.jpg" ;
+	ns2:id	"XX933704" ;
+	ns2:P1002	"WWW LC auth. file, 17-1-2001" ,
+		"Dic. de escritores c\u00E9lebres, 1995" ,
+		"El h\u00F2bbit o Viatge d'anada i tornada, 2010" ,
+		"El silmarillion, 1986" ;
+	ns2:P5011	"1973" .
