@@ -1,0 +1,29 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns1:	<http://datos.bne.es/resource/> .
+@prefix ns2:	<http://datos.bne.es/def/> .
+ns1:XX2035645	rdf:type	ns2:C1001 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+ns1:XX2035645	rdfs:label	"Tolkien, J. R. R." .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+ns1:XX2035645	owl:sameAs	<http://d-nb.info/gnd/948737964> ,
+		<http://data.bnf.fr/12545196> .
+@prefix ns5:	<http://id.loc.gov/authorities/names/> .
+ns1:XX2035645	owl:sameAs	ns5:n79102640 ,
+		<http://viaf.org/viaf/184679940> ,
+		<http://viaf.org/viaf/179602726> ,
+		<http://www.idref.fr/12027793X> ;
+	ns2:id	"XX2035645" ;
+	ns2:P1002	"El H\u00F2bbit o Viatge d'anada i tornada, 1987" ,
+		"CDMARC names, 1991" ;
+	ns2:P1001	"The hobbit" ;
+	ns2:P1005	"There and back again" ;
+	ns2:OP1007	ns1:XX5279588 ,
+		ns1:XX5245398 ,
+		ns1:XX5265936 ;
+	ns2:OP1001	ns1:XX933704 ;
+	ns2:OP1002	ns1:XX2206965 ,
+		ns1:XX2035645eng ,
+		ns1:XX2206966 ,
+		ns1:XX2905588 ,
+		ns1:XX4775007 ;
+	ns2:P1011	"Tolkien, J. R. R." .
